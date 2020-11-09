@@ -6,6 +6,7 @@
  * that create a structure for each of our DOM element
  * then we will use that function to crate our basic tags like div, h1 & p
  * then with the help of our basic tags we try to make an complex component
+ * then create a function that set attributes for each tag in real DOM
  * 
  * 
  */
